@@ -1,8 +1,8 @@
 ### Hi there 👋
-<a href="https://github-readme-stats.vercel">
+<a href="https://github.com/primetime43">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=primetime43&show_icons=true&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel">
+<a href="https://github.com/primetime43">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primetime43&layout=compact&theme=dark" />
 </a>
 
