@@ -9,7 +9,7 @@
 
 ![primetime43's stats](https://github-readme-streak-stats.herokuapp.com/?user=primetime43&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=primetime43&color=red)
+![Profile View Counter](https://komarev.com/ghpvc/?username=primetime43&color=brightgreen)
 
 <!--
 **primetime43/primetime43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
