@@ -50,7 +50,7 @@ REST APIs, Agile/Scrum, Entity Framework, DevOps, Troubleshooting, UI/UX, Deskto
 - 📺 [**Desktop IPTV Browser**](https://github.com/primetime43/Desktop-IPTV-Browser)  
   WPF app that connects to Xtream Codes IPTV accounts. Displays EPG & channel data, integrates VLC for streaming.
 
-- ⚙️ [**PS3 Call of Duty FastFile Editor**]([https://github.com/primetime43/Fastfile-Editor](https://github.com/primetime43/Call-of-Duty-FastFile-Editor-For-PS3))  
+- ⚙️ [**PS3 Call of Duty FastFile Editor**](https://github.com/primetime43/Call-of-Duty-FastFile-Editor-For-PS3)  
   A custom-built editor for Call of Duty `.ff` Fastfiles, enabling parsing, searching, and editing of script data. Built with C# to simplify reverse engineering tasks and speed up modding workflows.
 
 - ⭐ [**Ratings-To-Plex-Ratings**](https://github.com/primetime43/Ratings-To-Plex-Ratings)  
