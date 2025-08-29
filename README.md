@@ -47,8 +47,9 @@ REST APIs, Agile/Scrum, Entity Framework, DevOps, Troubleshooting, UI/UX, Deskto
 - 🐭 [**Toontown Rewritten Bot**](https://github.com/primetime43/Toontown-Rewritten-Bot)  
   A C# desktop bot that automates repetitive tasks in-game using screen detection.
 
-- 📺 [**Desktop IPTV Browser**](https://github.com/primetime43/Desktop-IPTV-Browser)  
-  WPF app that connects to Xtream Codes IPTV accounts. Displays EPG & channel data, integrates VLC for streaming.
+- 📺 [**Desktop IPTV Browser**](https://github.com/primetime43/iptv-desktop-browser)  
+  WPF app that connects to Xtream Codes IPTV accounts. Displays EPG & channel data, integrates VLC for streaming.  
+  <sub>[Legacy repo here](https://github.com/primetime43/Desktop-IPTV-Browser)</sub>
 
 - ⚙️ [**PS3 Call of Duty FastFile Editor**](https://github.com/primetime43/Call-of-Duty-FastFile-Editor-For-PS3)  
   A custom-built editor for Call of Duty `.ff` Fastfiles, enabling parsing, searching, and editing of script data. Built with C# to simplify reverse engineering tasks and speed up modding workflows.
