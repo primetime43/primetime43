@@ -51,8 +51,8 @@ REST APIs, Agile/Scrum, Entity Framework, DevOps, Troubleshooting, UI/UX, Deskto
   WPF app that connects to Xtream Codes IPTV accounts. Displays EPG & channel data, integrates VLC for streaming.  
   <sub>[Legacy repo here](https://github.com/primetime43/Desktop-IPTV-Browser)</sub>
 
-- ⚙️ [**PS3 Call of Duty FastFile Editor**](https://github.com/primetime43/Call-of-Duty-FastFile-Editor-For-PS3)  
-  A custom-built editor for Call of Duty `.ff` Fastfiles, enabling parsing, searching, and editing of script data. Built with C# to simplify reverse engineering tasks and speed up modding workflows.
+- ⚙️ [**Call of Duty FastFile Tools**](https://github.com/primetime43/CoD-FF-Tools)
+  A collection of CoD FF Tools to modify `.ff` Fastfiles, enabling parsing, searching, and editing of script data. Built with C# to simplify reverse engineering tasks and speed up modding workflows.
 
 - ⭐ [**Ratings-To-Plex-Ratings**](https://github.com/primetime43/Ratings-To-Plex-Ratings)  
   Python script that parses your IMDb/Letterboxd ratings and writes them into your local Plex Media Server library. A fast way to personalize Plex with your actual ratings.
