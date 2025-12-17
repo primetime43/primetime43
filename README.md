@@ -13,11 +13,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=primetime43&show_icons=true&theme=dark" alt="GitHub Stats">
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=primetime43&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="GitHub Streak">
-    </td>
-  </tr>
 </table>
 
 <div align="left">
