@@ -7,10 +7,10 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primetime43&layout=compact&theme=dark" alt="Top Languages">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=primetime43&layout=compact&theme=dark" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=primetime43&show_icons=true&theme=dark" alt="GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=primetime43&show_icons=true&theme=dark" alt="GitHub Stats">
     </td>
   </tr>
 </table>
