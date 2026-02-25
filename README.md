@@ -36,9 +36,6 @@ REST APIs, Agile/Scrum, Entity Framework, DevOps, Troubleshooting, UI/UX, Deskto
 
 ### 🌟 Featured Projects
 
-- 🟢 [**Spotle**](https://www.spotletransfer.com/) — [GitHub](https://github.com/primetime43/spotle-public-site)  
-  Angular-based web app that transfers playlists and favorites between Spotify and Apple Music. Deployed via Heroku & Cloudflare.
-
 - 🐭 [**Toontown Rewritten Bot**](https://github.com/primetime43/Toontown-Rewritten-Bot)  
   A C# desktop bot that automates repetitive tasks in-game using screen detection.
 
