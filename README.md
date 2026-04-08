@@ -1,9 +1,11 @@
 ### Hi there 👋
+
+🌐 **[pricebite.org](https://pricebite.org)** &nbsp;·&nbsp; [primetime43.github.io](https://primetime43.github.io)
+
 ---
 
 ### 📈 GitHub Stats
 
-<!-- Using pure HTML table to avoid Markdown table borders -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
@@ -35,6 +37,12 @@ REST APIs, Agile/Scrum, Entity Framework, DevOps, Troubleshooting, UI/UX, Deskto
 ---
 
 ### 🌟 Featured Projects
+
+- 🍔 [**PriceBite**](https://github.com/primetime43/PriceBite-public) — [pricebite.org](https://pricebite.org)  
+  Compare fast-food menu prices across locations. Scrapes live menu data from Taco Bell, Wendy's, Burger King, Arby's, Five Guys, and Chick-fil-A, with price history tracking and a cheapest-item finder. Built with React 19, FastAPI, PostgreSQL, and Redis.
+
+- 🎬 [**GAPS 2**](https://github.com/primetime43/GAPS-2)  
+  A full rewrite of the original GAPS project. Finds missing movies in your Plex, Jellyfin, or Emby library using TMDB collection data. Supports scheduled scans, Discord/Telegram/Email notifications, and ships as a single Windows `.exe` or Docker image. Built with Angular 19 + Python/Flask.
 
 - 🐭 [**Toontown Rewritten Bot**](https://github.com/primetime43/Toontown-Rewritten-Bot)  
   A C# desktop bot that automates repetitive tasks in-game using screen detection.
