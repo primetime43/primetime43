@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-🌐 **[pricebite.org](https://pricebite.org)** &nbsp;·&nbsp; [primetime43.github.io](https://primetime43.github.io)
-
 ---
 
 ### 📈 GitHub Stats
