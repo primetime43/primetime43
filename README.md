@@ -1,55 +1,96 @@
-### Hi there 👋
----
+# Hi, I'm primetime43 👋
 
-### 📈 GitHub Stats
+I enjoy contributing to open-source projects and building tools around home media, games, and software preservation. I'm particularly interested in preserving older mods, code, tools, and technical knowledge that might otherwise disappear as forums and websites go offline, including through reverse engineering when needed.
 
-<table border="0" cellspacing="0" cellpadding="0">
+
+
+## GitHub activity
+
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=primetime43&layout=compact&theme=dark" alt="Top Languages">
+    <td width="50%">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=primetime43&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=transparent&hide_rank=true&custom_title=GitHub%20Activity" alt="primetime43's GitHub activity" />
     </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=primetime43&show_icons=true&theme=dark" alt="GitHub Stats">
+    <td width="50%">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=primetime43&layout=compact&langs_count=8&theme=transparent&custom_title=Most%20Used%20Languages" alt="primetime43's most used languages" />
     </td>
   </tr>
 </table>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=primetime43&color=brightgreen" alt="Profile Views">
-</div>
+## Open-source contributions
 
----
+<p>I contribute fixes and features to established open-source projects.</p>
 
-### 🛠️ Tech Stack & Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/files-community/Files">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=files-community&repo=Files&theme=transparent&description_lines_count=2" alt="Files repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sonarr/Sonarr">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sonarr&repo=Sonarr&theme=transparent&description_lines_count=2" alt="Sonarr repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RPCS3/rpcs3">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=RPCS3&repo=rpcs3&theme=transparent&description_lines_count=2" alt="RPCS3 repository" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/RPCS3/rpcs3/pull/19108">Merged invite handling</a> · <a href="https://github.com/RPCS3/rpcs3/pull/19128">active home-menu follow-up</a></sub>
+    </td>
+    <td width="50%" valign="middle">
+      <p align="center">
+        <a href="https://github.com/pulls?q=is%3Apr+author%3Aprimetime43+-user%3Aprimetime43">
+          <strong>View all of my open-source pull requests →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Languages & Frameworks:**  
-C#, TypeScript, Python, SQL, HTML/CSS, Angular, Ionic, WPF, .NET, Java
+## Featured projects
 
-**Tools & Platforms:**  
-Azure, Visual Studio, SSMS, Jenkins, GitHub, AppDynamics, Oracle DB, Linux
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/primetime43/Toontown-Rewritten-Bot">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=primetime43&repo=Toontown-Rewritten-Bot&theme=transparent&description_lines_count=2" alt="Toontown Rewritten Bot repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/primetime43/GAPS-2">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=primetime43&repo=GAPS-2&theme=transparent&description_lines_count=2" alt="GAPS 2 repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/primetime43/CoD-FF-Tools">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=primetime43&repo=CoD-FF-Tools&theme=transparent&description_lines_count=2" alt="Call of Duty FastFile Tools repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/primetime43/iptv-desktop-browser">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=primetime43&repo=iptv-desktop-browser&theme=transparent&description_lines_count=2" alt="Desktop IPTV Browser repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Concepts:**  
-REST APIs, Agile/Scrum, Entity Framework, DevOps, Troubleshooting, UI/UX, Desktop & Web Apps
+Also: [Ratings to Plex Ratings](https://github.com/primetime43/Ratings-To-Plex-Ratings)
 
----
+## Tools I work with
 
-### 🌟 Featured Projects
+**Languages:** C#, TypeScript, Python, SQL, Java, HTML/CSS<br />
+**Frameworks:** .NET, WPF, Angular, Ionic, React, FastAPI, Flask<br />
+**Platforms:** Azure, Docker, Linux, GitHub Actions, PostgreSQL, SQL Server, Oracle
 
-- 🍔 [**PriceBite**](https://github.com/primetime43/PriceBite-public) — [pricebite.org](https://pricebite.org)  
-  Compare fast-food menu prices across locations. Scrapes live menu data from Taco Bell, Wendy's, Burger King, Arby's, Five Guys, and Chick-fil-A, with price history tracking and a cheapest-item finder. Built with React 19, FastAPI, PostgreSQL, and Redis.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=primetime43&style=flat&color=0969da" alt="Profile views" />
+</p>
 
-- 🎬 [**GAPS 2**](https://github.com/primetime43/GAPS-2)  
-  A full rewrite of the original GAPS project. Finds missing movies in your Plex, Jellyfin, or Emby library using TMDB collection data. Supports scheduled scans, Discord/Telegram/Email notifications, and ships as a single Windows `.exe` or Docker image. Built with Angular 19 + Python/Flask.
-
-- 🐭 [**Toontown Rewritten Bot**](https://github.com/primetime43/Toontown-Rewritten-Bot)  
-  A C# desktop bot that automates repetitive tasks in-game using screen detection.
-
-- 📺 [**Desktop IPTV Browser**](https://github.com/primetime43/iptv-desktop-browser)  
-  WPF app that connects to Xtream Codes IPTV accounts. Displays EPG & channel data, integrates VLC for streaming.  
-  <sub>[Legacy repo here](https://github.com/primetime43/Desktop-IPTV-Browser)</sub>
-
-- ⚙️ [**Call of Duty FastFile Tools**](https://github.com/primetime43/CoD-FF-Tools)
-  A collection of CoD FF Tools to modify `.ff` Fastfiles, enabling parsing, searching, and editing of script data. Built with C# to simplify reverse engineering tasks and speed up modding workflows.
-
-- ⭐ [**Ratings-To-Plex-Ratings**](https://github.com/primetime43/Ratings-To-Plex-Ratings)  
-  Python script that parses your IMDb/Letterboxd ratings and writes them into your local Plex Media Server library. A fast way to personalize Plex with your actual ratings.
+<sub>Dynamic cards powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
