@@ -19,7 +19,7 @@ I enjoy contributing to open-source projects and building tools around home medi
 
 ## Open-source contributions
 
-<p>I contribute fixes and features to established open-source projects.</p>
+<p>I contribute fixes, features, and bug reports to established open-source projects.</p>
 
 <table>
   <tr>
@@ -46,6 +46,10 @@ I enjoy contributing to open-source projects and building tools around home medi
       <p align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3Aprimetime43+-user%3Aprimetime43">
           <strong>View all of my open-source pull requests →</strong>
+        </a>
+        <br />
+        <a href="https://github.com/issues?q=is%3Aissue+author%3Aprimetime43+-user%3Aprimetime43">
+          <strong>View all of my issues &amp; bug reports →</strong>
         </a>
       </p>
     </td>
