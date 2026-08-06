@@ -79,18 +79,26 @@ I enjoy contributing to open-source projects and building tools around home medi
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/primetime43/Ratings-To-Plex-Ratings">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=primetime43&repo=Ratings-To-Plex-Ratings&theme=transparent&description_lines_count=2" alt="Ratings to Plex Ratings repository" />
+      </a>
+    </td>
+    <td width="50%" valign="middle">
+      <p align="center">
+        <a href="https://github.com/primetime43?tab=repositories&sort=stargazers">
+          <strong>View all of my repositories →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
-Also: [Ratings to Plex Ratings](https://github.com/primetime43/Ratings-To-Plex-Ratings)
 
 ## Tools I work with
 
 **Languages:** C#, TypeScript, Python, SQL, Java, HTML/CSS<br />
 **Frameworks:** .NET, WPF, Angular, Ionic, React, FastAPI, Flask<br />
 **Platforms:** Azure, Docker, Linux, GitHub Actions, PostgreSQL, SQL Server, Oracle
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=primetime43&style=flat&color=0969da" alt="Profile views" />
-</p>
 
 <sub>Dynamic cards powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
