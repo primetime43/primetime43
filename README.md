@@ -102,7 +102,7 @@ I enjoy contributing to open-source projects and building tools around home medi
 ## Tools I work with
 
 **Languages:** C#, TypeScript, Python, SQL, Java, HTML/CSS<br />
-**Frameworks:** .NET, WPF, Angular, Ionic, React, FastAPI, Flask<br />
+**Frameworks:** .NET, WPF, Angular, Ionic, FastAPI, Flask<br />
 **Platforms:** Azure, Docker, Linux, GitHub Actions, PostgreSQL, SQL Server, Oracle
 
 <sub>Dynamic cards powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
